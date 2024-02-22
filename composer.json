@@ -1,0 +1,17 @@
+{
+    "name": "adm/solar-energy-website-template",
+    "autoload": {
+        "psr-4": {
+            "Adm\\SolarEnergyWebsiteTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julio cesar",
+            "email": "jcgcampana@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
